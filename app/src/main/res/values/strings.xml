@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SkipVIP</string>
+    <string name="notification_channel_name">VIP Skip Reminders</string>
+    <string name="notification_channel_description">Alerts to skip VIP memberships before the monthly deadline</string>
+</resources>

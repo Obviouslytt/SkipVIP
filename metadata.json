@@ -1,0 +1,6 @@
+{
+  "name": "SkipVIP",
+  "description": "Smart VIP membership skip-the-month reminder to avoid automatic subscription charges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
